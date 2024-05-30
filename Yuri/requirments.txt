@@ -1,0 +1,8 @@
+llama-cpp-python
+transformers
+openai
+twitchio
+google
+google-api-python-client
+google-cloud-texttospeech
+playsound==1.2.2

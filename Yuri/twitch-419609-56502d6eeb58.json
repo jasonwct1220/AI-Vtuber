@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "twitch-419609",
+  "private_key_id": "56502d6eeb5890fd6b7a0193152afd5ac6f2d80a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3df9/ixuzIhwy\nA6fQ4G7cIbvt11mociQxAlGDt4OQk7O20vQqHiXnjSC5n0mjdQDH87iBMJE8gUI5\ncZ8k4+MMm5JjN6UkqrCh5RSXn1y3KcDlXijRE8/sC0ac+kk5RjLkf4S3gG/XJR1s\nBujcQj4Q0dhUF/HWYyESOlcBArj9gt0sHg/4Wh1kmvLqp0a95eZ4tX/u4g9mp9aT\nc11Eo6WjbDEPEActVpW7ryirW5YeJvG60ntab7l/+NLR+s8/BP8Nz6TFxxwp/sDt\n7bi8yVtyNruYSsthj1QH/0qKoFEzk9lv0fd+0ay3wcg0alPSD6X+vTN7Xy0/ONt4\n9iHS245fAgMBAAECggEAAXPUj7leyjMhypXc0tX0CrxnWaGPaLqQ5aS4MsdVvHYl\nwYXumzkLBhEjZcKIgrdabIP6mNRiv7EGScT+zY5AUoAWhlKRULa289pRA/24JQ1f\nkrpy+EcSKcVj8JWmHsKIqS+ZRD85Nb0g6e6a7eyhek5Tk424Z9xln8YtU03dpH+V\n36k/JSGjeJTJdAKVnOzP56vOsTGCecivSGnzdQhciATbPmL4Lz3DtukmCmY/qbHL\n0ByWS/uk8Nq6ae4hiaSCiD/jjF0hKiP6SgSsv8FLI4LYDM8FwnRL70Ig5qHPL2rx\nocl7H5IXIjnwHFnn9iMS9AUaxL0mTld7VnnaZ/hsAQKBgQDeEQMzUJHuBI81libm\nyEhJr2IPfJ8+qeSMu1yAPkGNO/2KmDPmKUjV7VneoYGOqbJY5C9nyn5zhEPZ3iZH\nEcxKKckEJKMlWFOoNxKz2syVddPFsrx6www3Xvm2JvrmVhvLvIIXmBQ+KXRWWGQj\n4xWltp6ES3xMZ6YcRWFqdvLEIQKBgQDTfsf/Scq1C+al0WGwRZ4Mej5Bbsc1LIrw\nNaXep3Wfi/agWmt+qAam8banBOp95aOANtzQLf96darm3ZH5oKbbtJfs6Pt07HPo\nFPhijl8m24yfOyitfnwDOTO9LU33OpX8JD46KqbzwaaDDleDXbC5Hcz0wxkzIxiv\nSvVEjmQCfwKBgQCZae9oGBV49jVps94UOfGW1k9Mm6/4Pq7iet4gyuHGjNdQVG4m\naAclo+Aeaj1zLdFEkAAgGEjbzViCv3J6TtVvtwZkklsThb3lzIZjMpl79/bh8eU8\neluKNVcWfD+BuaNiUU0et7XkbAcvT8l+8XcXEN7aTrwEnOapSVVPk/WLgQKBgQCW\nZ/A1RjYpYOhLfkc5w5itiPXjNLPoxd+dCpoGaRMGPtRKn2MY9MeeTAG4b4+PrxMC\nqIGKb1vjq/C5NFOOskhXsOvmaJ4DPfED2H34IQXcLYCo8Lpx/6ST6kc4PxLWQkzN\nvryeQxzt9wbC5x0naCa4z0+ltWWjb08rwmQAuD65YwKBgQDCPFuFVvYsTQXGHJ5N\nTd/QB5vPvyB8ASD91VSpKs8T4F+0pPUANvcffFZZmLFhpzQykeFyT+kuiavGt9yn\n9sK3wUGq7KP4ZgaAw2Nf2G60o/oTTUf6pnC0NAOxaQdJntdz4wvRKD0u4EFbFE5H\nEd7OywT7ZC5RRfbihHrJSg+/tw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitch-yuri@twitch-419609.iam.gserviceaccount.com",
+  "client_id": "101540014573679005511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitch-yuri%40twitch-419609.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
