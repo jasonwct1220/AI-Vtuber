@@ -1,0 +1,7 @@
+- Update to twitchio3 July Update
+
+- Sending json instead of values via TCP from python to Unity
+
+- Change of structures of Unity
+
+- Sound will output from Unity now
