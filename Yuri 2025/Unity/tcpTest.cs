@@ -54,7 +54,7 @@ public class tcpTest : MonoBehaviour
 
     void receiveData(){
         //Create server
-        listener = new TcpListener(IPAddress.Parse("192.168.1.8"), port);
+        listener = new TcpListener(IPAddress.Parse(""), port);
         listener.Start();
 
         //Create client to receive data
@@ -313,3 +313,4 @@ public class tcpTest : MonoBehaviour
         }
     }
 }
+
